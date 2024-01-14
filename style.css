@@ -119,6 +119,7 @@ nav button{
 .airarticle p{
     margin-top: 40px;
     font-size: large;
+    padding-bottom: 20px;
 }
 .airarticle h1{
     font-size: 34px;
@@ -126,6 +127,12 @@ nav button{
 .shoe_im{
     width: 300px;
     height: 300px;
+    border-radius: 50%;
+    box-shadow: 10px 10px 10px;
+}
+.shoe_im:hover{
+    width: 450px;
+    height: 450px;
     border-radius: 50%;
     box-shadow: 10px 10px 10px;
 }
